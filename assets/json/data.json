@@ -1,0 +1,25 @@
+{
+    "collections":[
+       {"title":"Moonbirds","sub-title":"Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit.","image":"assets/images/men.png"},
+       {"title":"Clone X - X Takashi Murakami","sub-title":"Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.","image":"assets/images/men.png"},
+       {"title":"Mutant Ape Yacht Club","sub-title":"Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.","image":"assets/images/men.png"}
+       ,{"title":"Moonbirds","sub-title":"Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit.","image":"assets/images/men.png"},
+       {"title":"Clone X - X Takashi Murakami","sub-title":"Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.","image":"assets/images/men.png"},
+       {"title":"Mutant Ape Yacht Club","sub-title":"Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.","image":"assets/images/men.png"}
+       ,{"title":"Moonbirds","sub-title":"Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit.","image":"assets/images/men.png"},
+       {"title":"Clone X - X Takashi Murakami","sub-title":"Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac.","image":"assets/images/men.png"},
+       {"title":"Mutant Ape Yacht Club","sub-title":"Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus.","image":"assets/images/men.png"}
+   ],
+   "team":[
+    {"name":"Guy Hawkins","post":"CEO","image":"assets/images/guy.png"},
+    {"name":"Jane Cooper","post":"COO","image":"assets/images/jane.png"},
+    {"name":"Dianne Russell","post":"CDO","image":"assets/images/dianne.png"},
+    {"name":"Darrell Steward","post":"CTO","image":"assets/images/darrell.png"}
+   ],
+   "provids":[
+    {"title":"Host your NFTs","sub-title":"Egestas tellus nunc proin amet tellus tincidunt lacus consequat. Ultrices","image":"assets/logos/home.png"},
+    {"title":"See your sales","sub-title":"Integer ante non nunc, eget est justo vel semper nunc. Lacus ","image":"assets/logos/sales.png"},
+    {"title":"Secure wallet","sub-title":"Sed faucibus faucibus egestas volutpat, accumsan adipiscing egestas est. Auctor et leo urna est.","image":"assets/logos/secure.png"},
+    {"title":"No scam","sub-title":"Sed faucibus faucibus egestas volutpat, accumsan adipiscing egestas est. Auctor et leo urna est.","image":"assets/logos/scam.png"}
+   ]
+}

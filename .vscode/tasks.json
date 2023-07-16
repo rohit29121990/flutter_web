@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "type": "flutter",
+            "command": "flutter",
+            "args": [
+                "build",
+                "apk"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "label": "flutter: flutter build apk",
+            "detail": ""
+        }
+    ]
+} // {
+// 	"version": "2.0.0",
+// 	"tasks": [
+// 	  {
+// 		"label": "Flutter-Launch-All",
+// 		"type": "shell",
+// 		"command": "flutter",
+// 		"args": [
+// 		  "run",
+// 		  "-d",
+// 		  "emulator-5554",
+// 		  "&",
+// 		  "flutter",
+// 		  "run",
+// 		  "-d",
+// 		  "chrome"
+// 		],
+// 		"group": {
+// 		  "kind": "build",
+// 		  "isDefault": true
+// 		}
+// 	  }
+// 	]
+//   }
